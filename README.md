@@ -1,5 +1,5 @@
- [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ndleah?tab=repositories)
-[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/ndleah)
+ [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/LeoPham1?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/LeoPham1)
 # 💖 Hi My Name Leo Pham
 ## 💡 About Me
 As a passionate data enthusiast, I am always seeking new ways to explore and gain deeper insights from
