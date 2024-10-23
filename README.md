@@ -2,10 +2,7 @@
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/LeoPham1)
 # 💖 Hi My Name Leo Pham
 ## 💡 About Me
-As a passionate data enthusiast, I am always seeking new ways to explore and gain deeper insights from
-data. With two years of experience in Performance Marketing, I have developed strong data analysis and
-reporting skills. To further pursue my passion for data, I have completed a six-month Data Analyst course
-and am eager to apply my newfound knowledge to contribute to a company's growth.
+My two years of experience in Digital Marketing and Data Analysis have allowed me to proactively engage in diverse projects across various industries, including Banking, Cosmetics, Real Estate, and Beauty. I am passionate about exploring new ways to leverage data for customer behavior analysis, enabling me to develop and implement effective digital marketing strategies. Moreover, I utilize tools such as SQL, Power BI, Excel, and Python to create Automation Dashboards, contributing to the optimization of operational processes and increased productivity for businesses.
 ### 🔎 Personal Information
 - 🤝 I studied at [FPT SKILLKING](https://skillking.fpt.edu.vn/)
 - 🤝I earned my Data Certificate from [Swiss Coding Academy](https://swisscoding.edu.vn/)
